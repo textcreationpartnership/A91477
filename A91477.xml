@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judges charge; delivered in a sermon before M. Justice Hale, and M. Sergeant Crook, judges of assize, at St. Mary-Overies in Southwark, Martii 22. 1658. As also setting forth, the necessity of magistracy, for the weal of a people. With a serious item and admonition to all unruly spirits, that despite dominion, and resist the ordinance of God. By Rich. Parr, M.A. sometimes Fellow of Exeter-Colledge in Oxford, now pastor of Camerwel in the county of Surry.</title>
+            <author>Parr, Richard, 1617-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91477</idno>
+            <idno type="STC">Wing P547</idno>
+            <idno type="STC">Thomason E947_2</idno>
+            <idno type="STC">ESTC R33023</idno>
+            <idno type="EEBO-CITATION">99872345</idno>
+            <idno type="PROQUEST">99872345</idno>
+            <idno type="VID">168523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168523)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 141:E947[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judges charge; delivered in a sermon before M. Justice Hale, and M. Sergeant Crook, judges of assize, at St. Mary-Overies in Southwark, Martii 22. 1658. As also setting forth, the necessity of magistracy, for the weal of a people. With a serious item and admonition to all unruly spirits, that despite dominion, and resist the ordinance of God. By Rich. Parr, M.A. sometimes Fellow of Exeter-Colledge in Oxford, now pastor of Camerwel in the county of Surry.</title>
+                  <author>Parr, Richard, 1617-1691.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for Nathaniel Brook, at the Angel in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 2d".</note>
+                  <note>Reproductions of originals in the Union Theological Seminary Library, New York and the British Library (Thomas Tract).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Judges --  England --  17th century --  Early works to 1800.</term>
+               <term>Courts --  England --  Officials and employees --  Early works to 1800.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168523:1" rendition="simple:additions"/>
+            <p>The Judge Charge; DELIVERED IN A SERMON BEFORE M. Juſtice <hi>Hale,</hi> and M. Sergeant <hi>Crook,</hi> Judges of Aſsize, At St. <hi>Mary-Overies</hi> in <hi>Southwark, Martii</hi> 22. 1658.</p>
+            <p>As alſo ſetting forth, The Neceſsity of MAGISTRACY, For the Weal of a People.</p>
+            <p>WITH A ſerious <hi>Item</hi> and Admonition to all unru<g ref="char:EOLhyphen"/>ly Spirits, that deſpiſe Dominion, and reſiſt the Ordinance of GOD.</p>
+            <p>By <hi>Rich. Parr,</hi> M. A. ſometimes Fellow of <hi>Exeter</hi>-Colledge in <hi>Oxford,</hi> now Paſtor of <hi>Camerwel</hi> in the County of <hi>Surry.</hi>
+            </p>
+            <q>
+               <p>So ſpeak ye, and ſo do, as they that ſhall be judged by the law of liberty,</p>
+               <bibl>
+                  <hi>Jam. 2.12.</hi>
+               </bibl>
+               <p>
+                  <hi>For God ſhall bring every work into judgement, with every ſe<g ref="char:EOLhyphen"/>cret thing, whether it be good, or whether it be evil.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> for <hi>Nathaniel Brook,</hi> at the Angel in <hi>Cornhil.</hi> 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168523:2"/>
+            <pb facs="tcp:168523:2"/>
+            <head>To the High-Sheriff <hi>OF</hi> The County of <hi>Surry, THOMAS WALKER</hi> Of <hi>Camerwel,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon was preached at your requeſt; and having performed it, as I was a<g ref="char:EOLhyphen"/>ble, and as ſuitable to the occaſion as I could think on: afterward you thought it not unfit to be made a little more publick by Prin<g ref="char:EOLhyphen"/>ting; and your demands, with others that
+<pb facs="tcp:168523:3"/>heard it, have at laſt prevailed with me thus to ſend it abroad, though very much beſides my inclination and reſolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Subject of this Diſcourſe, for the main, appertains to an Aſsize-buſineſs, fitted for, and applied to thoſe Perſons concerned in and about that Court of Ju<g ref="char:EOLhyphen"/>dicature: and in truth, obſerving the great neglect of moſt Men, as to the faithfulneſs of performance, though un<g ref="char:EOLhyphen"/>der an Oath to do all things justly and honeſtly, I laboured to convince Men of, and perſwade Men to their Duty as they fear God, and muſt give an account one day, how they have acted in their ſe<g ref="char:EOLhyphen"/>veral Places; and leſt Men (other<g ref="char:EOLhyphen"/>wiſe of honest Principles) might erre for want of Direction in many Points, I made it much of my Task to inform them from God's Word: and if this Sermon fall
+<pb facs="tcp:168523:3"/>into their hands, and they will read it with as ſincere intention as I preached it, it may ſerve them to ſome purpoſe.</p>
+            <p>Beſides, there are ſome Paſſages in it by way of Corollary, which are very ſeaſonable for theſe Times, to be con<g ref="char:EOLhyphen"/>ſidered, while that Anti-Magiſtratical Spirit is up, which ſo much thwarts the Peace of a Nation and Scripture-Com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>And if any thing in this Sermon hath had, or hereafter may have any influence upon the Hearers or Readers, and it ſerve either for Caution or Direction, I have all I aim at.</p>
+            <p>Mean time, I hope I may not lie under the cenſure of any that fear God, for what I have done this way, ſeeing I am not guilty of Flattery, Temporizing or Curioſity: if any thing offend, it will be my plainneſs, (for my manner is to be
+<pb facs="tcp:168523:4"/>ſo) and if I am (as 'tis very often my lot) more bold then welcome, as long as 'tis for God and Reformation, I can bear it well enough: and this Sermon had the bap to be thought ſo.</p>
+            <p>Beſides, I have no Temptation to be<g ref="char:EOLhyphen"/>lieve I ſhall get any worldly advantage by this Sermons printing, nor any other that expoſed it, becauſe of the Subject treated on: and ſure, it cannot be thought a de<g ref="char:EOLhyphen"/>ſirable Preferment, to go in the crowd with ſo many, too many Pamphlets that are printed to little purpoſe; and this muſt fare as they do, for ought I know. And I think the Stationers-ſtall is no ſuch throne of Honour, that Men ſhould be ambi<g ref="char:EOLhyphen"/>tious to let their Names lie there: But fare it as it may with Many, yet if Any may get ſome good by it, I can bear the reſt.</p>
+            <p>And now, Sir, you muſt own it: for
+<pb facs="tcp:168523:4"/>on your account it was preached, and on yours and others printed. And if it were Truth and Good when delivered, 'tis ſo ſtill: and ſeeing you were one of them that took up your part of it to practice, as you did effectually, and were not at a ſhame and ſcorne, to follow the Exhorta<g ref="char:EOLhyphen"/>tion, which had ſo much of Charity in it: And the Reverend Judges were pleaſed to own what was given them too, in their pra<g ref="char:EOLhyphen"/>ctiſe, for that Seſsion: and that it may be a Memento to all that fear God, and in com<g ref="char:EOLhyphen"/>miſsion within any County, to act toward a reformation, as to thoſe many abuſes up and down among us, much to the diſhonour of God; ſpecified in the cloſe of this Diſ<g ref="char:EOLhyphen"/>courſe, of which I would minde them a<g ref="char:EOLhyphen"/>gain. <g ref="char:V">Ʋ</g>pon thoſe Conſiderations, I yield to let it paſs abroad; and I think in reſpect of your place, your compliance with the
+<pb facs="tcp:168523:5"/>Truths delivered, and Obligation of Friendſhip, you are the Perſon fitted for this Dedication, from</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Your Paſtor, Friend; and for my Dear Lord and Maſter Chriſt, your Servant,</hi> Richard Parr.</signed> 
+               <dateline>Camerwel, <date>
+                     <hi>May 6. 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168523:5"/>
+            <head>The Text.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Chron. 19.6, 7.</hi>
+                  </bibl>
+                  <p n="6">6. And ſaid unto the Judges, Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgement.</p>
+                  <p n="7">7. Wherefore now let the fear of the Lord be upon you, take heed and do it: for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gift.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have in this Chapter, a Model of good Government, and a Syſteme of an Aſſize-Court, both for per<g ref="char:EOLhyphen"/>ſons that are to act, and things that are to be determined in this Court of Judicature.</p>
+            <p n="1">1. You have God the Supreme King and Law-Giver, in whoſe Name all juſt Laws run,<note place="margin">Iſa. 33.22.</note> and by whoſe Command all good Laws muſt be executed juſtly for his Honour.</p>
+            <p n="2">2. You have likewiſe mention made of <hi>Jehoſa<g ref="char:EOLhyphen"/>phat,</hi> an upright man (for the main) and religious King, next under God Supreme over <hi>Judah,</hi> v. 1.
+<pb n="2" facs="tcp:168523:6"/>who was (as all good Kings ſhould be) very cir<g ref="char:EOLhyphen"/>cumſpect at this time, and careful about reforma<g ref="char:EOLhyphen"/>tion of what was amiſs both in Church and State; and in it, he had an eye to God's Honour, and the peoples good, both for Body and Soul: ſee <hi>v.</hi> 4.</p>
+            <p n="3">3. And becauſe the burthen was great, too great for one Man to bear well, and the Abuſes to be reformed many, he choſe certain Men, Men of wiſdom and integrity, to put good Laws in execu<g ref="char:EOLhyphen"/>tion; and theſe are called Judges, <hi>v.</hi> 5. perſons entruſted under him, the King, with the Admini<g ref="char:EOLhyphen"/>ſtration of State-affairs; to whom he gives ſtrict charge, in the Name of God, to execute true ju<g ref="char:EOLhyphen"/>ſtice, to advance to the utmoſt of their power, the honour of God, and weal of the State, in ſubordi<g ref="char:EOLhyphen"/>nation to God, without any reſpect of perſons, but onely to God, as <hi>v.</hi> 5. <hi>And he ſet Judges in the land, throughout all the fenced cities of Judah, city by city.</hi>
+            </p>
+            <p n="4">4. There is mention made of other Officers who are appointed to ſerve the deſigne of Reformation and juſtice, which were to wait on this buſineſs, <hi>v.</hi> 11. <hi>Alſo the Levites ſhall be officers before you.</hi> So much for the perſons that arc to rule in a good State, and to execute juſtice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, you have the matters which are to be enquired into, and determined in and by this Court of Judicature.</p>
+            <p n="1">1. Matters of civil controverſie between man man, doubtful and diſputable, about Titles, Bar<g ref="char:EOLhyphen"/>gains and Contracts, which are brought to the Court, not yet determined or agreed on. And this I take to be the buſineſs of your Court of <hi>Niſi prius, v.</hi> 8.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:168523:6"/>
+2. Matters Criminal, of higher Miſdemea<g ref="char:EOLhyphen"/>nors, Murders and Felonies, Treaſons or Blaſ<g ref="char:EOLhyphen"/>phemies: and this ſeems to be the concernment of that Court of Life and Death, <hi>v.</hi> 10. <hi>between blood and blood.</hi>
+            </p>
+            <p>And the ſame all-knowing righteous God ſits over both Benches, and is with you in the judge<g ref="char:EOLhyphen"/>ment of each perſon and cauſe. This is an High Court of juſtice, and we need no other Court of High-juſtice.</p>
+            <p n="3">3. Then thirdly, there is another buſineſs for the Judges to do at this Court, to receive complaints of Grievances, and to ſee them redreſſed, and to look to the ſtanding-Magiſtracy of the reſpective places where ſuch are to be reformed, to execute the Laws in ſuch caſes provided for the weal of the Publick: ſee <hi>v.</hi> 10. <hi>Ye ſhall even warn them that they treſpaſs not,</hi> &amp;c.</p>
+            <p>And this may likewiſe include the Judges charge to the grand Inqueſt about Preſentments and about Oaths, and to Deponents and Witneſſes, that they trepaſs not by connivances or falſe accuſations, and falſe witneſſing in any of the matters before them in the judgement: for as your charge is ſtrict, ſo ſhould you give a ſtrict charge to others; for it concerns you, as you ſhall heat anon.</p>
+            <p>And ſo you have the Analyſis or Reſolution of this <hi>Chapter,</hi> at leaſt ſo much as concerns the Judges commiſſion, place and office, and the matters that fall under their judicature.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, We come next, and now, to the Text, The King's charge to the Judges concerning thoſe
+<pb n="4" facs="tcp:168523:7"/>weighty matters before them to be judged and de<g ref="char:EOLhyphen"/>termined.</p>
+            <p>Wherein you may obſerve,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 1. The Perſon charging or inſtructing, and it is <hi>Jehoſaphat,</hi> he that was King of <hi>Judah,</hi> a good Prince, and one that feared God, and loved his Subjects, and would have juſtice done in all his Dominions.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2. The Perſons charged, and they are the Judges whom he had appointed to circuit from City to City to hear and determine Cauſes, and to execute the Laws, <hi>pro bono publico,</hi> intending by them a thorough Reformation.<note place="margin">Inde latae Le<g ref="char:EOLhyphen"/>ges ne fortior omnia poſſet, <hi>Ovid 3 Faſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Arles. Eth. 5.</hi>
+               </note> For what elſe were good Laws made, if not to be executed? and what elſe is a Magiſtrate in his Adminiſtration, but <hi>Lex lo<g ref="char:EOLhyphen"/>quens,</hi> one that muſt give life to the Law, which o<g ref="char:EOLhyphen"/>therwiſe would be but a dead Letter?</p>
+            <p n="3">3. <milestone type="tcpmilestone" unit="unspecified" n="III"/> The charge it ſelf, about the Adminiſtration of Juſtice, and Determination of Cauſes, and doing Right to every one; which Charge con<g ref="char:EOLhyphen"/>ſiſts of three particulars, with the Reaſons to the inforcement of the duty; which he gives them with a ſerious Caution and Command.</p>
+            <p>And in naming them, we ſhall give you (to pre<g ref="char:EOLhyphen"/>vent another labour, for brevity) the fuller ſenſe and meaning of the words from the Original, to make our Inference compleat, and Application home.</p>
+            <p n="1">1. About the matters you are to determine, and muſt paſs your judgement, <hi>Videte quid vos facientes:</hi> the Hebrew Text,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Look what you are a doing. <hi>Quid ſitis facturi:</hi> ſo <hi>Tremelius:</hi> Take heed to what
+<pb n="5" facs="tcp:168523:7"/>you are about. The Syriack hath it thus, fully: <hi>Videte quid agati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, fortes eſtote, &amp; decernite judicium verum:</hi> Take heed, and decree juſt and true judgement with zeal and courage.</p>
+            <p>
+               <note place="margin">Conſilium prae<g ref="char:EOLhyphen"/>cedat opus, ne abſurda ſe<g ref="char:EOLhyphen"/>quantur.</note>And theſe together make the firſt Duty to con<g ref="char:EOLhyphen"/>ſiſt in this: That in the trying of Cauſes, you conſider heedfully the Queſtion: obſerve your Rule you are to judge by; ſearch after the truth,<note place="margin">This was that which <hi>Solomon</hi> begged of God, 1 <hi>King.</hi> 3.9, 28.</note> which lies deep, take pains to ſiſt it: mark well the proofs, underſtand the cauſe, uſe your judge<g ref="char:EOLhyphen"/>ment and wiſdom in diſcuſſing the point, ſearch out by trial: <hi>Take heed to what you are about.</hi>
+            </p>
+            <p>It is not an eaſie matter to be a juſt Judge or De<g ref="char:EOLhyphen"/>terminer of intricate things; conſidering how many actors and advocates, that are ſubtil and crafty on either ſide in very many Cauſes that come before you. <hi>Deal couragiouſly.</hi> Take heed you do no wrong. This is the firſt cautionary counſel.</p>
+            <p n="2">2. About the Sentence which muſt proceed from you to end the controverſie, according to the in<g ref="char:EOLhyphen"/>tent of the Law.</p>
+            <p>When you have found out the truth,<note place="margin">Iniquitas eſt ab aequitatis regula in alterutram partem decli<g ref="char:EOLhyphen"/>nati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Oſor. de Juſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Sept.</hi> Juſtum eſſe fa<g ref="char:EOLhyphen"/>cile eſt cui va<g ref="char:EOLhyphen"/>cuat pectus me<g ref="char:EOLhyphen"/>tu. <hi>Sen.</hi>
+               </note> and diſcern what is to be done in the caſe, ceaſe not to apply the Rule, deliver the Law impartially: which is the ſecond Injunction in the charge, <hi>Take heed, and do it. Cuſtodite,</hi> keep the rule and truth together: <hi>facite,</hi> do it: <hi>fortes eſtote,</hi> be ye valiant and reſo<g ref="char:EOLhyphen"/>lute; fear not to do Juſtice: <hi>Obſervate &amp; facite,</hi> ſerve and do it: ſo the <hi>Septuagint.</hi> Judges muſt be very wiſe, and very valiant, that they may admini<g ref="char:EOLhyphen"/>ſter true Juſtice impartially.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:168523:8"/>
+3. The Caution for prevention or interruption in the manner and matter of executing juſt judge<g ref="char:EOLhyphen"/>ment: 1. Reſpect no mans perſon.<note place="margin">Libertatem ar<g ref="char:EOLhyphen"/>guendi amittit qui ab eo accipit qui ideo dat ne corrigatur, <hi>Ambroſ.</hi>
+               </note> 2. Take no mans bribe; let no man daunt you; no gift corrupt you; no friend byaſs you: <hi>Qui induit per<g ref="char:EOLhyphen"/>ſonam judicis, exuit amici,</hi> Cicer. <hi>For,</hi> Deut. 16.19. <hi>a gift doth blinde the eyes of the wiſe, and pervert the words of the righteous.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="IIII"/> 4. The Reaſons to enforce this Charge, and to ſet it home on the conſcience, that they may be careful in the matter of judgement; and faithful in the manner of executing Juſtice impartially, and with unbyaſſed and undaunted reſolution; and they are four, all referring to the great, holy and juſt GOD, which the King preſumes they fear.</p>
+            <p n="1">1. The Judgement you paſs is for or againſt the Lord, as it is right or wrong: the matter concerns man, but the juſtice concerns God. Truth is God's Cauſe, which he would have maintained.</p>
+            <p n="2">2. God is with you in the judgement, and in the matter ye judge, and in the ſentence ye give: with you, 1. with his preſence of intuition; ſees what you do: 2. with his preſence of protection and approbation in your Juſtice doing: 3. or, with his preſence of correction, to puniſh and judge the Judges, if corrupt or negligent.</p>
+            <p n="3">3. God is your King and Judge, and alſo your Pattern, which you muſt follow in this: He cannot be bribed to do unjuſtly, nor flattered or awed into partiality; neither muſt you: if you will approve your ſelves to God in the buſineſs, you muſt not let Juſtice fall through fear, or ſell it for gain: neither
+<pb n="7" facs="tcp:168523:8"/>careleſs, coward or covetous can be a good Judge.</p>
+            <p n="4">4. As you fear the Lord, as his dread is upon you, or as you love and honour him, if you would have any favour from him, if you would approve your ſelves to him; <hi>Take heed and do it, let the fear of the Lord be upon you.</hi> Dare not to do wrong to any, dare not but do Juſtice to all; if you fear God, you need not fear man.</p>
+            <p>'Tis true, I read of one Judge (but I finde not his Chriſten-name) that feared not God, but his Sir<g ref="char:EOLhyphen"/>name was <hi>Unjuſt, — Heare what the unjuſt judge ſaith,</hi> Luk. 18.2, 6. He that fears not God, nor regards what wrong he doth to man, he will ſurely be un<g ref="char:EOLhyphen"/>juſt for any advantage; but he that fears God, dares not be unjuſt.</p>
+            <p>And truely except you fear God, it will be but a ſorry relief poor innocent and wronged ones will finde, by going to Law before the unjuſt, 1 <hi>Cor.</hi> 6.1. <hi>Dare any of you having a matter againſt another, go to law before the unjuſt?</hi> They had better take wrong at home, then come ſo far, and pay ſo dearly for it. But as you fear the Lord, ſo do that which is juſt: which is the fourth Argument in the Text.</p>
+            <p>And thus you have the parcels of the Text laid together, which here make up the indiſpenſible du<g ref="char:EOLhyphen"/>ty of the Judges to perform ſtrictly, according to the rule and direction. In it ye have the <hi>Quid fieri debet,</hi> and the <hi>Quod factum valet,</hi> for the diſcharge of a good conſcience in this Office and imployment. And this being followed according to the Rule, whatever the ſucceſs may be, <hi>tantâ faece populi,</hi> in times of ſo great corruption, yet let Judges and all
+<pb n="8" facs="tcp:168523:9"/>in commiſſion, diſcharge their duty faithfully, and they ſhall have an <hi>Euge</hi> from the Lord, <hi>Well done good and faithful ſervant.</hi>
+            </p>
+            <p>And by this time you finde, that this Text is that good Law which <hi>Solon</hi> never knew, when he com<g ref="char:EOLhyphen"/>plained, <hi>That there wanted one good Law, to make us put all the good Laws made into execution.</hi>
+            </p>
+            <p>And a more full and authentick Law then this of the Text, for that purpoſe, cannot be made or found. Here is a Rule by which you muſt walk; here is a Judge which will judge you, if you judge not aright: then <hi>ſo judge ye, and ſpeak, as thoſe that ſhall be judged by the Law,</hi> Jam. 2.12. and your Pat<g ref="char:EOLhyphen"/>tern you have; not a careleſs <hi>Gallio,</hi> nor a fearful, man-pleaſing, bribe-expecting <hi>Foelix,</hi> nor yet an injurious <hi>Ananias,</hi> a whited wall: but the Sove<g ref="char:EOLhyphen"/>raign juſt Judge, the great God over all, who is to be your Pattern, and him you are to have ſtill in your eye.</p>
+            <p>So have I done with that part of the Diſcourſe which is for illuſtration of the ſenſe and meaning of the words, to make way for the inference and Obſervations.</p>
+            <p>Now before we come to the more proper Con<g ref="char:EOLhyphen"/>cluſion for this occaſion, it may be fit to minde you of ſomething from the ſcope and coherence, which may ſomewhat contribute to rectifie ſome extravagancies, which if not reduced and allayed in time, may bring confuſion upon the whole frame.</p>
+            <p>There is an Anti-Magiſtratical Spirit up, and it makes a great noiſe; which may be checked by this truth, if men will yield to truth:</p>
+            <p>
+               <pb n="9" facs="tcp:168523:9"/>
+               <hi>That Magiſtracy is an appointment of God,</hi>
+               <note place="margin">Doct. 1.</note> 
+               <hi>for the good of his people; it is his Ordinance.</hi>
+            </p>
+            <p>This is eaſily proved, if Scripture and Experi<g ref="char:EOLhyphen"/>ence may be taken for currant teſtimony: and this very <hi>Chapter</hi> makes it cleer: here is <hi>Jehoſaphat</hi> the King, and the Judges, with other Officers; and theſe over the people of <hi>Judah,</hi>
+               <note place="margin">Pſal. 78.68.</note> which was the tribe of his peculiar choice; of which Chriſt himſelf came after the fleſh, from <hi>David,</hi> through the Line of <hi>Jehoſaphat.</hi>
+            </p>
+            <p>And if we look back on the times before this, we finde Judges of Gods appointment: the laſt of that kinde of Government, under the name of Judges, as Supreme, was <hi>Samuel,</hi> whom God appointed to rule the people: and as good as he was, though he ſetled the Church, and kept the Commonwealth in quiet, kept his yeerly Aſſize in <hi>Bethel, Gilgal</hi> and <hi>Mizpeh,</hi> beſides his deciding cauſes at home in <hi>Ra<g ref="char:EOLhyphen"/>mah;</hi> yet the inconſtant fickle Many were weary of him and his rule: but God was angry with them, and laid this to their charge, that they had rejected not <hi>Samuel,</hi> but the Lord, 1 <hi>Sam.</hi> 8.7. that he ſhould not reign over them: and although he was angry with them for their rebellion, yet gave he them a King to rule: but when their wickedneſs had en<g ref="char:EOLhyphen"/>raged his anger to wrath, he took away their King, as you may find, <hi>Hoſ.</hi> 13.11. <hi>I gave them a King in mine anger,</hi> but I was wrath when I took him away; <hi>I took him away in my wrath.</hi> And when Government ceaſed, men did that which was right in their own eyes, and ſet up falſe Gods, and falſe worſhippings, and offered violence one to another; no man was
+<pb n="10" facs="tcp:168523:10"/>ſafe, meeting with a ſtronger them himſelf; then violence and confuſion prevailed: they were ruled by no Laws but that of their own wills;<note place="margin">Judg. 17.6. Judg. 21.25.</note> for <hi>in thoſe days there was no king in Iſrael,</hi> and then Gods wrath was up. But when the Lord intends a mercy and a bleſſing to a people, hear what he ſaith, <hi>I will re<g ref="char:EOLhyphen"/>ſtore the judges as at the firſt;</hi> and upon the account of mercy and favour:<note place="margin">Iſa. 1.26.</note> That God ſet up <hi>David,</hi> and af<g ref="char:EOLhyphen"/>ter him his Son <hi>Solomon,</hi> and gave them Honour, Rule and Wiſdom,<note place="margin">2 Chron. 9.8.</note> 
+               <hi>becauſe God loved Iſrael.</hi>
+            </p>
+            <p>Was not <hi>Corah's</hi> rebellion againſt <hi>Moſes</hi> and <hi>Aa<g ref="char:EOLhyphen"/>ron,</hi> their Governours, diſowned of God? and were they not puniſhed with a death which was not common?<note place="margin">Numb. 16. <hi>com<g ref="char:EOLhyphen"/>pared with</hi> cap. 27.25.</note> did not the earth gape and ſwallow them? and gave them that quick paſſage to Hell, in the heat of their rebellion? and is not that a terri<g ref="char:EOLhyphen"/>ble example for all of their ſpirits?</p>
+            <p>The Hebrews have a Proverb, <hi>Migrandum eſt ex eo loco in quo Rex non timetur:</hi> People that fear a judge<g ref="char:EOLhyphen"/>ment from the Lord, ſhould make haſte from that place where the King is not reverenced and obeyed, becauſe God will puniſh rebellion with ſome fear<g ref="char:EOLhyphen"/>ful judgement: Ruine is the child of Reſiſtance of God's Ordinance firſt or laſt, and miſchief puts a period to the lives and deſigns of miſchievous men.</p>
+            <p>But leſt Old-teſtament-proofs may ſeem with ſome of leſſer authority, ſee what is in the New<g ref="char:EOLhyphen"/>teſtament: that of St. <hi>Paul</hi> to the <hi>Romans, Rom.</hi> 13.1, 2, 3, 4. How readeſt thou there? doth not St. <hi>Paul,</hi> one that had the Spirit of Chriſt, and knowledge of his Will, write this by way of command, as well as prudential direction or counſel, <hi>Let every ſoul be ſub<g ref="char:EOLhyphen"/>ject
+<pb n="11" facs="tcp:168523:10"/>unto the higher powers;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> let no man exempt himſelf as free from ſubjection: and he gives the Reaſon or Argument in the following words, to oblige the conſcience to this Duty: <hi>for there is no power but of God; the powers that be, are ordained of God.</hi> God hath appointed ſome to rule, and ſome to be ruled. <hi>Whoſo<g ref="char:EOLhyphen"/>ſoever therefore reſiſteth the power,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> reſiſteth the ordinance of God; and they that reſiſt, ſhall receive to themſelves damnation,</hi> v. 2. The ſame Apoſtle to <hi>Titus,</hi>
+               <note place="margin">Tit. 3.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> gives this in charge, <hi>Put them in minde to be ſubject to princi<g ref="char:EOLhyphen"/>palities, to obey Magiſtrates,</hi> &amp;c.</p>
+            <p>It is true, we know Magiſtracy is diſtaſteful to the proud and ungodly world, becauſe it keeps mens luſts from raging,<note place="margin">Quid non libido mentis humanae ſtruat? quid non malo<g ref="char:EOLhyphen"/>rum pruriat? ſtatum laceſſunt omnipollentis Dei, calumnio<g ref="char:EOLhyphen"/>ſis litibus. <hi>Pru<g ref="char:EOLhyphen"/>dent. Hym.</hi> in <hi>Infideli.</hi>
+               </note> and binds the hands from doing miſchief. And ſure no man can be againſt Magi<g ref="char:EOLhyphen"/>ſtracy and good Order, but he that would be ſub<g ref="char:EOLhyphen"/>ject to no Law of God: and how can he be a good man then? are they not called by St. <hi>Jude</hi> v. 8. <hi>Fil<g ref="char:EOLhyphen"/>thy dreamers, that deſpiſe dominion, and ſpeak evil of dig<g ref="char:EOLhyphen"/>nities?</hi> Exod. 22.28. <hi>Thou ſhalt not revile nor curſe the ruler of thy people.</hi> The Apoſtle <hi>Peter,</hi> another of Chriſt's Followers, gives the ſame thing in com<g ref="char:EOLhyphen"/>mand:<note place="margin">1 Pet. 2.13, 14, 15</note> 
+               <hi>Submit your ſelves to every ordinance of man for the Lords ſake, whether to the king as ſupreme, or unto go<g ref="char:EOLhyphen"/>vernors, as unto them ſent by him for the puniſhment of e<g ref="char:EOLhyphen"/>vil doers, and the praiſe of them that do well: for ſo is the will of God,</hi> v. 15. This then is not commanded, as though the ordinance of Government were of mans invention, but of Gods appointment to be managed by men, ſuch as are appointed to this Rule and Of<g ref="char:EOLhyphen"/>fice, to puniſh evil doers as God hath ordained, and cheriſh and protect thoſe that do well. This is the end of Magiſtracy.</p>
+            <p>
+               <pb n="12" facs="tcp:168523:11"/>
+The Anti-Magiſtratical Spirit then muſt not be owned of God, nor can be ſecured by Scripture. <hi>If the foundations be deſtroyed,</hi>
+               <note place="margin">Pſal. 11.3.</note> 
+               <hi>what can the righteous do?</hi>
+            </p>
+            <p>But we muſt wave this point as to further proſe<g ref="char:EOLhyphen"/>cution, and take up one of more immediate reſult from the Text: and it is this:</p>
+            <p>
+               <hi>That if Judges mean to diſcharge their duty well,</hi>
+               <note place="margin">Doct. 2.</note> 
+               <hi>and approve themſelves to God, it must be their care to judge rightly, and adminiſter juſtice impartially, without regard to man, as to what he is, or what he gives.</hi>
+            </p>
+            <p>This is God's Charge to Judges, and thus good Judges muſt do in diſcharge of their Duty, if they fear God. This Inference lies cloſe in the Text, which renders this Doctrine Divinity, and a ruled-caſe for Judges, as a Principle of their Religion, and Rule for their Practice.</p>
+            <p>And it were enough to quote the Text for proof: but becauſe you proceed <hi>ſecundum allegata &amp; proba<g ref="char:EOLhyphen"/>ta,</hi> and <hi>out of the mouth of two or three witneſſes every word ſhall be eſtabliſhed,</hi>
+               <note place="margin">Mar. 18.16.</note> as ſaith our Saviour; take two or three more proofs for this: <hi>Deut.</hi> 16.18, 19, 20. there Judges are ſet their buſineſs: <hi>They ſhall judge the people with juſt judgement:</hi>
+               <note place="margin">Si vis Tribunus eſſe, imo ſi vis vivere, manus militum conti<g ref="char:EOLhyphen"/>ne. <hi>Valer. Imp. Epiſt. ad Tribunum.</hi>
+               </note> 
+               <hi>thou ſhalt not wreſt judge<g ref="char:EOLhyphen"/>ment: thou ſhalt not reſpect perſons, neither take a gift; for a gift doth blind the eyes of the wiſe. That which is altoge<g ref="char:EOLhyphen"/>ther juſt ſhalt thou follow, that thou mayſt live.</hi> So <hi>Levit.</hi> 19.15. <hi>Ye ſhall do no unrighteouſneſs in judgement. Thou ſhalt not reſpect the perſon of the poor, nor honour the per<g ref="char:EOLhyphen"/>ſon of the mighty: but in righteouſneſs ſhalt thou judge thy neighbour.</hi> The merit of the Cauſe muſt be taken up, and not the Perſon, either poor or rich: pity and re<g ref="char:EOLhyphen"/>ſpect muſt be laid aſide in this matter: a poor man
+<pb n="13" facs="tcp:168523:11"/>muſt not be upheld in a wrong Cauſe, nor a rich great man regarded for his gay clothing or Gold-Ring; but juſtice muſt be done to each,<note place="margin">Jam. 2.2, 3, 4.</note> as their Caſe is, or elſe there is partiality, which is for<g ref="char:EOLhyphen"/>bidden: for, <hi>he that justifieth the wicked,</hi> poor or rich, <hi>or condemneth the righteous,</hi> ſmall or great, <hi>are both</hi> a<g ref="char:EOLhyphen"/>like <hi>abomination to the Lord,</hi> Prov. 17.15. See in <hi>Job</hi> the character of a juſt Judge, and his manner, <hi>Job</hi> 29.14, 15, 16. <hi>I put on righteouſneſs, and it clothed me: my judgement was as a robe and a diadem: I was eyes to the blind, and feet to the lame: I was a father to the poor, and the cauſe which I knew not, I ſearched out: And I brake the jaws of the wicked, and plucked the ſpoil out of his teeth.</hi> And again, in that of <hi>Deut.</hi> 19.15, 16. con<g ref="char:EOLhyphen"/>cerning the Judge, how he muſt deal in a caſe of witneſſing: <hi>At the mouth of two witneſſes, or at the mouth of three, ſhall the matter be eſtabliſhed. And the men between whom the controverſie is, ſhall ſtand before the Lord, before the prieſts and the judges, and the judges ſhall make inquiſition; and thine eye ſhall not pity, but life ſhall go for life, eye for eye, hand for hand, and foot for foot,</hi> v. 21. So ſee your apportment, and to what you are to heed, <hi>Rom.</hi> 13.3, 4. <hi>To be a terror to evil works, and to encourage the good:</hi> and they muſt not bear the ſword of Magiſtracy in vain; but diſtri<g ref="char:EOLhyphen"/>bute to every own his due, as his works are found to be.</p>
+            <p>And thus you have ſome few of thoſe many Di<g ref="char:EOLhyphen"/>rections which are given to Rulers up and down in the Word of God.</p>
+            <p>But would you conſider a little, the Reaſons why Judges ought to be circumſpect and inquiſitive in<g ref="char:EOLhyphen"/>to
+<pb n="14" facs="tcp:168523:12"/>to Cauſes for Trial, and to be couragious in the impartial Sentence? Beſides the Reaſons in the Text, (which prevail with all men fearing God) there are ſome farther Conſiderations, which may make you more circumſpect about the matters you are to judge, and the Sentence you are to paſs.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> 1. In reſpect of the Oath of God which you have taken your ſelves; and it is (you know) to execute the Laws juſtly to the beſt of your skill:<note place="margin">Eccleſ. 8.2.</note> therefore muſt you uſe the beſt of your skill, to finde out the truth and juſtneſs of the cauſe, becauſe of the Oath ye have taken. <hi>Good men fear an oath,</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2. In reſpect of your Places and Office: you are choſen out for this purpoſe,<note place="margin">2 Chron. 9.8.</note> as men of wiſdom and skill, yea, men of integrity, to do right to all, and wrong to none. You are taken as it were into Gods Throne, and to ſupply the place, and do Gods work with men;<note place="margin">Pſal. 82.6.</note> and you are called <hi>petty-gods;</hi> therefore muſt you do your utmoſt, and be diligent to ſearch out the truth: for <hi>curſed is he that doth the work of the Lord negligently</hi> or <hi>deceitfully, Jer.</hi> 48.10. Had you not need be circumſpect then?</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> 3. In reſpect of the Cauſes that come before you to be determined juſtly, <hi>they are many</hi> of them mat<g ref="char:EOLhyphen"/>ters of high concernment; ſome of them of <hi>life</hi> and <hi>death,</hi> and matters of making or undoing of men, as to their outwards.</p>
+            <p>And the truth lies deep, and the points nice which are controverted Cauſes, not unlike for obſcurity to that brought before <hi>Solomon,</hi>
+               <note place="margin">1 King. 8.22.</note> about the living child, laid claim unto by two mothers at once, ſtifly pleading each their intereſt in the child; but of right
+<pb n="15" facs="tcp:168523:12"/>it belonged but to one of the two; and if care and wiſdom had not been uſed, the right might have ſuffered wrong. Now with you 'tis much alike, and oftentimes as <hi>Seneca</hi> ſpeaks, <hi>Involuta veritas in alto latet.</hi>
+            </p>
+            <p>Had you not need therefore to be very cautious and diligent in your Inquiſition, leſt you do wrong to whom you ought to do right? for as <hi>Auſtin</hi> ſaith of ignorance in a Judge, ſo may we ſay of the care<g ref="char:EOLhyphen"/>leſneſs of a Judge, <hi>Negligentia Judicis calamitas inno<g ref="char:EOLhyphen"/>centis eſt.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="IIII"/> 4. Laſtly, in reſpect of the perſons you have to deal withal, you had need take care &amp; courage too, both to find out the truth, and execute the Laws. And indeed you will finde, that all men have not faith, <hi>(i.e.)</hi> they are not men of truth and honeſty, not ordinary morality: you may not readily be<g ref="char:EOLhyphen"/>lieve all reports, nor take upon truſt without your own ſearch, nor rely upon their own words, nor own many men, though they ſwear to it:</p>
+            <p n="1">1. For there are ſome Right Worſhipful, Op<g ref="char:EOLhyphen"/>preſſors; and Gentlemen, criminous: ſome that would have <hi>Naboth</hi>'s Vineyard, or his Life; and have wit and money enough to make the beſt of a bad matter, and will ſpeak big words,<note place="margin">Prov. 18.5, 7.</note> and would fain awe the Judge, to make him judge according to their tale and intereſt. You had need of care and courage, ſeeing ſome men are ſuch.</p>
+            <p n="2">2. There are Advocates which plead before you, and they have art and tongue enough for their Cli<g ref="char:EOLhyphen"/>ents, and an hand for a Fee, right or wrong, and are able to make the beſt of a bad matter, or ſo to en<g ref="char:EOLhyphen"/>tangle
+<pb n="16" facs="tcp:168523:13"/>the truth, or hide it, that 'twill require wiſ<g ref="char:EOLhyphen"/>dom indeed, to finde out the fallacy: for of ſuch So<g ref="char:EOLhyphen"/>phiſts may be ſaid, as <hi>Prudentius</hi> in his time in his <hi>Hymn againſt Infidels,</hi>
+            </p>
+            <q>
+               <l>Solvunt ligant<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> queſtionum vincula</l>
+               <l>
+                  <note place="margin">Prud. Hymn Infideliis.</note>Per ſyllogiſmos plectiles;</l>
+               <l>Fidem minutis diſſecant ambagibus,</l>
+               <l>Ut quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> lingua nequior.</l>
+            </q>
+            <p n="3">3. There are Witneſſes, and upon Oath. I ſhould not name an Oath, nor you hear of it with<g ref="char:EOLhyphen"/>out trembling: <hi>becauſe of oaths the land mourns;</hi> not onely vain, but fallacious alſo. Yet you (my Lords) know, that there are Knights of the Poſt abroad, and no doubt you have in your obſervations diſco<g ref="char:EOLhyphen"/>vered how far <hi>fear</hi> or <hi>reſpect,</hi>
+               <note place="margin">Non ſolum ille reus eſt, qui fal<g ref="char:EOLhyphen"/>ſum de aliquo profert; ſed &amp; is qui citò au<g ref="char:EOLhyphen"/>rem criminibus praebet, <hi>Iſid. lib. 3. de ſum<g ref="char:EOLhyphen"/>mo bono.</hi>
+               </note> 
+               <hi>malice</hi> or <hi>reward,</hi> will prevail with the ungodly Vulgar to bear falſe wit<g ref="char:EOLhyphen"/>neſs, and ſtand to it too. Had you not need to be circumſpect then, becauſe of ſuch whoſe conſci<g ref="char:EOLhyphen"/>ences are Iron, and whoſe brows are Braſs?</p>
+            <p n="4">4. There are ſome likewiſe which have a great part in the tranſactions of Cauſes, which ſhould be men of ſteady heads and honeſt hearts, and un<g ref="char:EOLhyphen"/>der an Oath too they are all. But, alas! how often do you finde them abominably deceived, or wil<g ref="char:EOLhyphen"/>fully miſtaken, or tamely led by a Fore-man, and baſely byaſſed by ſome ſquint-eyed reſpect, fear or affection? In as much, that you have cauſe to ſay, <hi>The united many are deceived as well as the divided unity.</hi> And alas, among all theſe, how, but too often, is the good truth tortured, and judgement wreſted? and will be ſtill, if you (the Judges) take not very
+<pb n="17" facs="tcp:168523:13"/>great care to relieve it. Take heed therefore: for you need be circumſpect in that reſpect alſo.</p>
+            <p>And ſo have I done with the Doctrinal part of my Text, wherein you have heard your Charge, and how it hath been proved by Scripture and Argu<g ref="char:EOLhyphen"/>ment, to be your indiſpenſible Duty.</p>
+            <p>We come now to the Applicatory part; as it is my Meſſage from the Lord, and my Duty as I fear the Lord; and I muſt be faithful in it too, leſt while I preſs you to yours, I forget or neglect my own: for this <hi>Take heed</hi> in my Text is my Rule and Injun<g ref="char:EOLhyphen"/>ction as well as yours; I muſt do it, and ſhall: I fear God.</p>
+            <div type="application">
+               <head>APPLICATION.</head>
+               <p n="1">1. In the Name of God to you, <hi>the Many,</hi>
+                  <note place="margin">1. To the Many.</note> that are hither come, and have no farther buſineſs, then to be lookers on at this time, and to obſerve the tranſ<g ref="char:EOLhyphen"/>actions of the ſeveral Courts, without much awe of Gods preſence upon your Spirit, or due reſpect to Magiſtracy or Juſtice.</p>
+               <p n="1">1. Be it known unto you (whoere you are) be<g ref="char:EOLhyphen"/>lieve it, and receive it for a truth, That Magiſtracy is an Ordinance of the great God, for the good of Mankind: take heed therefore that you reſiſt not nor murmur againſt it; but obey it, and ſubmit un<g ref="char:EOLhyphen"/>to it for the Lords ſake, leſt ye be found fighters a<g ref="char:EOLhyphen"/>gainſt God, and ſuffer as evil doers, bringing upon your own heads damnation. <hi>Submit your ſelves,</hi> ſaith the Apoſtle, <hi>to every ordinance of man for the Lords ſake: for ſo is the will of God; and in ſo doing, you do well,</hi> 1 Pet. 2.13, 15. God will not endure you, if ye will not
+<pb n="18" facs="tcp:168523:14"/>endure that which he hath ordained. <hi>Rom.</hi> 13.2. <hi>Whoſoever therefore reſiſteth, reſiſteth the Ordinance of God;</hi>
+                  <note place="margin">Rom. 13.2.</note> 
+                  <hi>and they that reſiſt ſhall receive to themſelves dam<g ref="char:EOLhyphen"/>nation:</hi> whether you be great or ſmall, few or many.</p>
+               <p n="2">2. To you that deſire to live quietly and honeſtly in the world, and to keep a conſcience voyd of of<g ref="char:EOLhyphen"/>fence toward God &amp; Man, let this be for your com<g ref="char:EOLhyphen"/>fort and incouragement; in ſo doing, the Magiſtrates are your Guardians, and the Law your Protection: <hi>Rulers are not a terrour to good works, but to the evil,</hi> Rom. 13.3. if you do well, and walk within com<g ref="char:EOLhyphen"/>paſs: if Rulers fear God, they muſt preſerve the innocent. The Law was not made for a righte<g ref="char:EOLhyphen"/>ous man, to condemn or vex him; but for the wick<g ref="char:EOLhyphen"/>ed, to puniſh them. If thou do evil, or mean to be wicked, you muſt expect to ſmart by it. In 1 <hi>Tim.</hi> 1.8, 9, 10. as there, ſo in this caſe with us, <hi>The law is good, if it be uſed lawfully: knowing this, that the law is not made for a righteous man, but for the lawleſs and diſobedient, for the ungodly and for ſinners; for murderers and man-ſlayers, for whoremongers, for lyers, for perju<g ref="char:EOLhyphen"/>red perſons,</hi> &amp;c. to curb and to condemn ſuch. But 'tis for the ſake of the Good alſo, that good Laws and good Magiſtrates are ordain'd, that theſe might not be wronged,<note place="margin">A culpa cum ſitis innoxii, non eſtis ulli ob<g ref="char:EOLhyphen"/>noxii.</note> that they may live quietly. Take heed therefore that ye walk circumſpectly, not as fools, but as wiſe: take heed ye do no ill, but well; ſo ſhall ye not only be protected, but praiſed.</p>
+               <p n="3">3. To all you that have heard what a ſtrict charge the Judges lie under, and that as they ſcar God, and muſt anſwer for it, if they perform not, their duty
+<pb n="19" facs="tcp:168523:14"/>as they ought, both for finding the Offences, and ex<g ref="char:EOLhyphen"/>ecuting right Judgement impartially: Let it be for terror to you that lie under any guilt, though not yet diſcovered, or that have wicked deſigns in hand not yet brought to the birth. Know, that if you be brought to the Judgement-ſeat, your wickedneſs ſhall be found out, and your puniſhment muſt be according to your fault; you may not expect to e<g ref="char:EOLhyphen"/>ſcape by any means: be affraid, for he beareth not the ſword in vain; <hi>for he is the miniſter of God to exe<g ref="char:EOLhyphen"/>cute wrath on him that doth evil,</hi> Rom. 13.4. And let me tell you that are guilty of murder or theft, of per<g ref="char:EOLhyphen"/>jury or blaſphemy, of adultery or fornication, of oppreſſion or falſe accuſation, or of any other crime or miſdemeanor condemned by the Laws of God, or juſt Laws of the Land; that though for the pre<g ref="char:EOLhyphen"/>ſent your faults lie hid, while the faults of others are diſcovered; yet know, that your hiding is but a ſorry ſecurity for your life or liberty; your ſecre<g ref="char:EOLhyphen"/>cie from the eye of man, and protection from the ſtroak of Juſtice to be executed by man; and ſo ye are not afraid: yet conſider with trembling, that the all-knowing Judge, the great God, hath diſco<g ref="char:EOLhyphen"/>vered you already, he needs no Informer, you are all bound over to that great Aſſize, where he ſits in Judgement immediate.<note place="margin">1 Cor. 4.5.</note> 
+                  <hi>The counſels of the heart</hi> are not hid from him: <hi>for there is nothing hid that ſhall not be diſcovered, nor covered that ſhall not be made known. For God will bring into judgement every ſecret thing.</hi>
+                  <note place="margin">Eccleſ. 12. <hi>laſ.</hi>
+                  </note> It is but a little while,<note place="margin">Rom. 14.12.</note> and God will call us all to an account, for what we have done, and for what we ſhould do, and have not done; how we have acted
+<pb n="20" facs="tcp:168523:15"/>upon the ſtage of this world: <hi>For we muſt all appear before the judgement-ſeat of Chriſt, that every one may ceive the things done in his body,</hi>
+                  <note place="margin">2 Cor. 5.10.</note> &amp; every one muſt bear his own burthen, <hi>according to that he hath done.</hi> Then, Sirs, what will become of the wicked, the unjuſt and the ungodly? where ſhall they appear? ſhall not the wicked be turned into Hell? O what a fearful thing it is for wicked men to fall into the hand of the living God!<note place="margin">Heb. 10.31.</note> when he is angry, he is a con<g ref="char:EOLhyphen"/>ſuming Fire.</p>
+               <p>Take heed therefore what you do, that you do no<g ref="char:EOLhyphen"/>thing againſt God and his Laws; for though man may not find you out, God will; &amp; who can protect you? therefore if you have done fooliſhly, repent, and do ſo no more. So much for the firſt Uſe, to you that (it may be) thought your ſelves not much concerned in this buſineſs.</p>
+               <p n="2">II. Now my next buſineſs is to you who are more neerly concerned in the work of this Court of Ju<g ref="char:EOLhyphen"/>ſtice; lift up your ears, and attend to your Charge, and take heed you do your Duty.</p>
+               <p n="1">
+                  <note place="margin">1. To thoſe that have Cauſes and Suits depen<g ref="char:EOLhyphen"/>ding.</note>1. A few words of caution and advice to you that have or may have any Cauſes or Suits to be tried and determined; take heed what you do: if two be at variance about any thing, the right lies but on one ſide, one muſt be in the wrong: lay not claim to that which of right belongs not unto you. And in caſe you be ignorant of the Cauſe, ſee (if you pleaſe) your Counſel, and tell him truly how it ſtands with you; and that you would not ſtand in an evil or wrong Cauſe: make not your Cauſe bet<g ref="char:EOLhyphen"/>ter then it is, but tell him the truth, that you
+<pb n="21" facs="tcp:168523:15"/>may proceed or deſiſt as your Cauſe is good or bad.</p>
+               <p>Well, if you fear God, you will not hire him to advocate in a wrong Cauſe, to pervert Judgement, and abuſe the Judge: take heed you do not.</p>
+               <p>But if you will go to Law right or wrong; know, and be ſure, though you may prevail here, you ſhall be caſt at the High Court of Appeal for poor wronged Ones in another World. Contend not in or for any thing here on Earth, which you dare not appear with before God. And if this be ſeriouſly conſidered, many Men might let fall their Suit, which they know is not juſt and right. And if you muſt to Law, take heed you hire not Witneſſes, or tamper with them, to make them ſpeak and ſwear for you falſly. O the guilt of falſe witneſſing and perjury will be on your Souls, as well as theirs! take heed what you do in this Caſe alſo.</p>
+               <p n="2">2. If the matter in controverſie and Suits com<g ref="char:EOLhyphen"/>menced be about words and brawlings, (as too ma<g ref="char:EOLhyphen"/>ny be) why, for ſhame, be not common Barra<g ref="char:EOLhyphen"/>tors; let not your weakneſs appear ſo in publick. Is there not a wiſe man among you at home, where you dwell, to take up the diſpute, and moderate your paſſions, but you muſt be at a great charge and pains, to be laughed at, and counted fools for your labour, and made the common talk and recreation of the ſtanders by? Why, Friends, if you are ſo unhappy as to have ſuch frivolous controverſies, will you uſher up your heats of paſſion to this Court? O be not ſuch Fools as to publiſh it on the houſe-top; 'tis too much you have done, to enter
+<pb n="22" facs="tcp:168523:16"/>on a controverſie of ſuch a nature; be not ſo bru<g ref="char:EOLhyphen"/>tiſh to perſiſt in your errors.</p>
+               <p>O that Judges would ſharply reprove ſuch cla<g ref="char:EOLhyphen"/>morous and contentious Spirits, and all thoſe that dare appear to plead for contentious perſons. If there be any ſuch among you, let fall your Suits, and follow Chriſts counſel,<note place="margin">Chriſts coun<g ref="char:EOLhyphen"/>ſel for ending Law-cauſes.</note> 
+                  <hi>Agree with thine adverſary quickly, while thou art in the way with him,</hi> Mat. 5.25.</p>
+               <p n="2">
+                  <note place="margin">2. To thoſe that are come for witneſſes.</note>2. To you that are Witneſſes in any Cauſe de<g ref="char:EOLhyphen"/>pending, or againſt the Priſoners at the Bar; take heed what you ſwear, and take heed you ſpeak the truth, and nothing but the truth, without fear, fa<g ref="char:EOLhyphen"/>vour, hopes of gain, or malice. I'll give you in theſe two or three Scriptures your caution and di<g ref="char:EOLhyphen"/>rection, <hi>Exod.</hi> 23.1. <hi>Thou ſhalt not raiſe a falſe report: put not thine hand with the wicked, to be an unrighteous witneſs.</hi> Add to this the ninth Commandment, <hi>Exod.</hi> 20.16. <hi>Thou ſhalt not bear falſe witneſs.</hi> Thou wilt not, if thou feareſt God, either forge a falſ<g ref="char:EOLhyphen"/>hood againſt any, nor maintain a falſhood, bearing witneſs: ſee <hi>Prov.</hi> 19.5. <hi>A falſe witneſs ſhall not go unpuniſhed, and he that ſpeaketh lyes ſhall not eſcape.</hi> For if you do, the Judge may finde you out, and puniſh you; but if he do not, to be ſure God will. And if there be any amongſt you, that are come with falſe accuſations or ſlanders, <hi>ye are of your father the devil, who was a lyer from the beginning,</hi> an accuſer and ſlanderer,<note place="margin">John 8.44.</note> 
+                  <hi>Rev.</hi> 12.9, 10. his works ye do, and wages ye will undoubtedly have. Take heed of falſe accuſations and ſlanders: whoſe life is ſafe, whoſe eſtate or livelihood ſecure, if thou make no con<g ref="char:EOLhyphen"/>ſcience of this?<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Accuſe no man falſly,</hi> Luk. 3.14. <hi>i.e.</hi>
+                  <pb n="23" facs="tcp:168523:16"/>whiſper not any accuſation againſt another wrong<g ref="char:EOLhyphen"/>fully, neither to pleaſure ſuch as ſeek occaſion a<g ref="char:EOLhyphen"/>gainſt one, nor to blaſt him, or expoſe him to wrong.</p>
+               <p n="3">
+                  <note place="margin">3. To the Ju<g ref="char:EOLhyphen"/>ry.</note>3. To the Jurors: you are returned to ſuccour your Country, and ſerve the deſigns of the Court. It is expected you ſhould be men of ſound heads and ho<g ref="char:EOLhyphen"/>neſt hearts, men of conſcience and parts; that you fear God, and underſtand your Duty. The lives and eſtates of men are much in your power; the Law hath committed it to your Verdict. Now if you go about this buſineſs careleſly, partially, or give up your blinde conſent to your Fore-man, without weighing ſeriouſly the proofs and directions, you may and will wrong the truth, ſhame your ſelves, blemiſh the care and diſcretion of them that re<g ref="char:EOLhyphen"/>turned you for good men and honeſt; abuſe the Judge, ſpoil a good Cauſe, cauſe the guiltleſs to ſuffer, and the guilty to eſcape; diſhonour God, wrong your Country, and ruine your own Souls.</p>
+               <p>Take heed therefore what you do, and do accor<g ref="char:EOLhyphen"/>ding to your Oath; let the fear of God be upon you: you are Jury-men, be not perjur'd men: you come to the Court, and are ſworn, O do not go away from it for-ſworn men. Alas, when you come home, what will you do with thoſe Oaths, which will rot your conſciences? Take heed what you do, and be diligent, wiſe and impartial, and that you do as good men ſhould do that are under an Oath.</p>
+               <p n="4">
+                  <note place="margin">4. To the Counſel and Lawyers.</note>4. I have not many words to them, becauſe there are not many of them within hearing: it ſeems it is
+<pb n="24" facs="tcp:168523:17"/>not their manner, to leave their Market to follow the Judges to a Sermon.</p>
+               <p>Well, you that are here, if you be capable of a little good counſel for your ſelves, who pretend to give ſo much to others; Take heed what you do. Do you fear God indeed, as you pretend? and will you plead in any Cauſe you know God diſown<g ref="char:EOLhyphen"/>eth? are not you to plead for the Lord, as well as the Judges to judge for God? have you a diſpen<g ref="char:EOLhyphen"/>ſation to ſpeak as you pleaſe for your own ad<g ref="char:EOLhyphen"/>vantage, right or wrong? may you ſpeak againſt the truth and right, as well as for the truth? God is the great Patron of truth and innocency, and dare any of you plead againſt it, that would not be found againſt God?</p>
+               <p>The Apoſtle <hi>Paul,</hi> going about to make it mani<g ref="char:EOLhyphen"/>feſt to the <hi>Corinthians,</hi> that he and the other Mini<g ref="char:EOLhyphen"/>ſters of Chriſt were not Reprobates, this is one of the Arguments he uſeth, 2 <hi>Cor.</hi> 13.8. <hi>For we can do nothing againſt the truth, but for the truth.</hi> And have you power to do and plead again the truth? Take heed you be not found —</p>
+               <p>
+                  <hi>David</hi> makes it one Petition in his Prayer, That he might be <hi>delivered from a lying lip, and deceitful tongue.</hi> O Sirs, take heed you wreſt not judgement: the Law of God for you is this,<note place="margin">Pſal. 120.2.</note> 
+                  <hi>Thou ſhalt not ſpeak in a cauſe to decline after many,</hi>
+                  <note place="margin">Exod. 23.2.</note> 
+                  <hi>to wreſt judgment:</hi> and, <hi>he that juſtifieth the wicked,</hi> be he never ſo great or rich, or for whatever advantage,<note place="margin">Prov. 17.15.</note> 
+                  <hi>or he that condemneth the juſt,</hi> be he never ſo poor or friendleſs, <hi>both are to God an abomination.</hi>
+               </p>
+               <p>
+                  <pb n="25" facs="tcp:168523:17"/>
+And if you know a forehand, that the cauſe you plead for be bad, and that you ſpeak againſt be good, and yet will bend your ſtrength, wit, Oratory, and intereſt in your Judge, to defend the Bad, and overcome the Good; A good man, that fears God, would not be in your Gown, with your conſcience, for all the money in your purſes, nor reputation you have for maſter-skil in the Laws. Sirs, Men are emboldened to do wrong, and dare do it the rather, becauſe they, the worſt of the worſt of them, can finde ſome to defend them among your robe. But to you I have to ſay, Take heed, God ſees you, and knows what you ſpeak, and what you deſign. Conſider that of <hi>Tully;</hi> he would have <hi>A good Orator, a good man alſo: Vir bonus,</hi> as well as <hi>dicendi peritus.</hi> I remember what ſomewhere I have read of <hi>Juſtus Jonas,</hi> that famous Lawyer, what was ſaid at his death, for all his great skill in the Law:</p>
+               <q>
+                  <l>Quid juvat, innumeros ſcire at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> evolvere caſus,</l>
+                  <l>Si facienda fugis, ſi fugienda facis?</l>
+               </q>
+               <p>
+                  <hi>This man knew well, and did ill:</hi>
+                  <note place="margin">Mat. 16.26.</note> 
+                  <hi>and what will it profit a man to gain much of the world by his skill, and loſe his ſoul at laſt? Prudentius</hi> hath this ſeverity againſt all thoſe which uſe their wit and intereſt to wrong ends:</p>
+               <q>
+                  <l>Vae captioſis, ſycophantarum ſtrophis:</l>
+                  <l>
+                     <note place="margin">Hymn in Indeliis.</note>Vae verſipelli aſtutiae.</l>
+               </q>
+               <p>I ſhall give it no other Engliſh then what I finde in the Prophet <hi>Iſaiah, Wo unto them which call evil good,</hi>
+                  <note place="margin">Iſa. 5.20, 21.</note> 
+                  <hi>and good evil; that put light for darkneſs, and darkneſs for light; that put bitter for ſweet, and ſweet for bitter. Wo unto them that are wiſe in their own eyes, and have wit to do evil.</hi> Take heed what you do: let the fear of God be upon you, and refrain your tongues from evil, and lips from
+<pb n="26" facs="tcp:168523:18"/>guile, and hands from bribes, if you mean to ſee good days, and be bleſſed in another world, 1 <hi>Pet.</hi> 3.10.</p>
+               <p>
+                  <note place="margin">5. To the High-She<g ref="char:EOLhyphen"/>riff.</note>Sir, beſides your preſence and Guards for the quiet ſecuring the Reverend Judges in the diſcharge of their Duties, and due Adminiſtration of Juſtice; you are to ſee to it, that faithful ſober men, able and ho<g ref="char:EOLhyphen"/>neſt, be returned from the ſeveral Quarters of the County, to ſerve upon the ſeveral Juries; which, 'tis preſumed, you have done, as you fear God. Beſides, you are to ſee to your under-Officers; you muſt take heed you allow not any of <hi>Gehezi</hi>'s Acquaintance in your ſervice: neither you, your man, nor man's man, muſt take a bribe, nor wrong any. But the main thing I would intreat of you, and let me prevail with you, if you fear God, take heed to yonder poor Priſoners, take care of them; I mean not, leſt they ſhould eſcape your chains, and break your bolts; I ſuppoſe there is good care taken for that, as there ſhould be too: But, Sir, for the Lords ſake, and in tenderneſs to their poor Souls, provide for their inſtruction. Some now in your cuſtody, it may be, muſt die for their crimes; o<g ref="char:EOLhyphen"/>thers may eſcape with their life, and yet as unfit to live, as others to die: now the requeſt is, that they who are for death, may (as much as poſſible) be fitted for death; and thoſe for life, fitted to live better. Do that for them and to them, which hitherto hath not been done to any purpoſe by any before you (as their buſineſs) in this County, (but you have a good exem<g ref="char:EOLhyphen"/>plar for it in the City) prevail with ſome conſcien i<g ref="char:EOLhyphen"/>ous men, that love the Souls of the pooreſt wretches, to deal with the Priſoners condemned, moſt ſeriouſly and feelingly, that poor condemned wretches may not go hence to another world, without ſome Soul-convi<g ref="char:EOLhyphen"/>ction
+<pb n="27" facs="tcp:168523:18"/>and repentance. Do this as you fear God, and have compaſſion on poor Souls, and ſettle it in your time.</p>
+               <p>
+                  <note place="margin">6. To the Judges &amp; the reſt in Com<g ref="char:EOLhyphen"/>miſſion.</note>And now, my Lords the Judges, and you the reſt of the Bench, who are by your places to act for the weal of the publick: <hi>Suffer me but a little; for I have yet to ſpeak</hi> (as <hi>Elihu</hi> in <hi>Job</hi>) <hi>on Gods behalf.</hi>
+                  <note place="margin">Job 36.2.</note>
+               </p>
+               <p>Do ye fear God? if you do not, you are not wor<g ref="char:EOLhyphen"/>thy your places, nor fit to rule; and if you fear God, you muſt and will act and judge for God, for Religion, for his Servants; and you will act againſt all perſons and things which are againſt God and his Laws.</p>
+               <p>If you would have God honour you with his pre<g ref="char:EOLhyphen"/>ſence of approbation and protection,<note place="margin">1 Sam. 2.38.</note> you muſt honour him by your zeal for his Cauſe.<note place="margin">Tantus quiſquis eſt, quantu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> est apud Deum.</note> And if God honour you not, your titles of <hi>Right Honourable,</hi> and <hi>Right Wor<g ref="char:EOLhyphen"/>ſhipful,</hi> will do you little good.</p>
+               <p>There are two things eſpecially you muſt aim at,<note place="margin">Qui tarde fecit diu noluit, <hi>Sen. de Benef.</hi>
+                  </note> if you mean to ſhew your ſelves for the Lord, and well<g ref="char:EOLhyphen"/>fare of the people: you muſt take care, and do what you can, and as ſoon as you can, while the prize is in your hand, leſt you be found tardy;</p>
+               <p n="1">1. <hi>To root out all manner of vice and wickedneſs.</hi>
+               </p>
+               <p n="2">2. <hi>To promote and maintain Godlineſs, and all things thereto belonging.</hi> For by theſe two, either a Nation is made or mar'd. <hi>Righteouſneſs exalteth a nation, but ſin is a reproach to any people, Prov.</hi> 14.34. And for this end are Magiſtrates ſet up over Nations, <hi>to root out evil, and to build and plant goodneſs, Jer.</hi> 1.10.</p>
+               <p>If you give not a check to wickedneſs,<note place="margin">Qui non vetat peccare cum po<g ref="char:EOLhyphen"/>teſt, jubet, <hi>Sen.</hi>
+                  </note> you encourage it; if you encourage not good, and be examples of it your ſelves, you check and ſuppreſs it: if it be in your power to hinder vice, or puniſh it; to promote godli<g ref="char:EOLhyphen"/>neſs,
+<pb n="28" facs="tcp:168523:19"/>and reward it:<note place="margin">In cujus manus eſt ut prohibeat, jubet agi, ſi non prohibet admit<g ref="char:EOLhyphen"/>ti, <hi>Salvian de Providentia.</hi>
+                  </note> &amp; if for all this, you will not do the one nor other, you may be accounted by God as acceſ<g ref="char:EOLhyphen"/>ſary to the evil; and unprofitable Servants, as to the im<g ref="char:EOLhyphen"/>provement of the Talent God hath entruſted you with, to do good withal. If you cannot change the hearts of wicked men, you may reſtrain their hands, and bind up their luſts, that they break not out ſo faſt. If you can<g ref="char:EOLhyphen"/>not promote godlineſs, ſobriety and righteouſneſs, as you would, do it as much as you can; and you will do more then many: for though ſome ſpeak it fair, yet do it little ſervice; wiſh well to goodneſs, but do no<g ref="char:EOLhyphen"/>thing for it. Now if you fear God, you muſt do it; take heed and do it. You have good Laws, have you not,<note place="margin">
+                     <hi>Impunitas au<g ref="char:EOLhyphen"/>ſum parit auſus exceſſum,</hi> Bern. de Conſid. lib 4.</note> againſt drunkenneſs, perjury, blaſphemy, thiev<g ref="char:EOLhyphen"/>ing, idleneſs, ſwearing? <hi>&amp;c.</hi> and if you have but as much zeal and courage to put them into execution, as you have power in your hands to do it, vice ſhould not ſo over-top, and carry all before it. Did you but take care that thoſe Laws made againſt the profanation of the Lords day, and againſt revilers of the Miniſtery and Ordinances,<note place="margin">Virtus aſſurge<g ref="char:EOLhyphen"/>re non poteſt ubi vitium libero paſſu commita<g ref="char:EOLhyphen"/>tur.</note> were but duly executed upon Offen<g ref="char:EOLhyphen"/>ders, vice ſhould not ſo jet it uncontroll'd. I know not where on earth to ſue for redreſs of theſe, &amp; many the like grievances, if not from you, who are entruſted with the civil ſword of Magiſtracy: and will you bear the ſword in vain, and not ſo much as draw it out for a terrour to evil works? 'Tis poſſible, by the Laws, you may hang up ſome few Sheep-ſtealers, Pilferer, and High-way-men, for the value of 6 or 7 <abbr>
+                     <hi>s.</hi>
+                  </abbr> but have you no law to puniſh thoſe that rob God, and the ſouls of poor people? will not Blaſphemy, and counter<g ref="char:EOLhyphen"/>feiting Chriſt and his Goſpel, bear an action in your Court? is there no Law againſt ſpiritual thieving, and
+<pb n="29" facs="tcp:168523:19"/>falſe coyning? Well, if the Laws of men be defective herein, the Laws of God are full enough: and if you for<g ref="char:EOLhyphen"/>bear to ſhew your ſelves full of diſlike as to all wick<g ref="char:EOLhyphen"/>edneſs, ſpiritual as well as bodily; yet God is a jealous God, and will meet with you and them all one day, and wickedneſs ſhall not go unpuniſhed: for God will do it, if you do not.</p>
+               <p>O the deſpite that is done every day to the precious truths of God, by men of corrupt judgements! how inſolent they are, becauſe they may! how do ſome ear<g ref="char:EOLhyphen"/>neſtly <hi>contend</hi> againſt <hi>the faith once delivered to the ſaints,</hi> while all men ſhould contend for it? how quickly would the Goſpel &amp; Kingdom of our dear Lord Chriſt be deſtroyed, if Chriſt had no more care of his Church then men have? O Sirs, this is not the leaſt of your concernment, to do what you can to ſuppreſs thoſe that ſuppreſs Chriſt, and the truth of Chriſt. You know you are to judge for the Lord, and to look to his honour: and is the Goſpel of Chriſt, and its free Diſpenſation, of no concernment to God, you, or the Nation? Are the glad tidings of Peace, Reconciliation and Salvati<g ref="char:EOLhyphen"/>on to the poor loſt world, ſuch ill news, that it muſt be permitted to be contradicted and blaſphemed? Is the Miniſtery of this Diſpenſation ſuch an eye-ſore and burthen to the world, that it muſt be caſt out of prote<g ref="char:EOLhyphen"/>ction, and expoſed to the dirt, drivel, foam and rage of the very ſcum of vain, deluded and prophane wret<g ref="char:EOLhyphen"/>ches, and our perſons expoſed to violence, wrong, calumny and reproach of the vileſt men, only becauſe of our Office and Calling, which we know (though they will not) that 'tis of God? Why may we not have the benefit of good Laws? as free-born we are as any of you; and I could magnifie our Office too: and
+<pb n="30" facs="tcp:168523:20"/>muſt we of all men be deprived of the priviledge of Engliſh Men and Engliſh Laws, becauſe we are Mi<g ref="char:EOLhyphen"/>niſters? Do you not ſee how the poor Clergy are vexed? and he is a ſorry fellow now adays, that can<g ref="char:EOLhyphen"/>not reproach, moleſt and undo a Miniſter. Do you not ſee how they are abuſed, as <hi>David</hi>'s Meſſengers he ſent in kindneſs to viſit <hi>Hanun,</hi> and to comfort him? but ill was their entertainment, very barbarous their uſage: <hi>Hanun took Davids ſervants and ſhaved them, and cut off their garments in the midſt,</hi> 1 <hi>Chron.</hi> 19.2, 4. even ſo it is now with the ſervants of Chriſt in the Miniſte<g ref="char:EOLhyphen"/>ry, ſent to the world with tidings of the deareſt love,<note place="margin">2 Cor. 5, 20.</note> and ſureſt peace, with tenders of rich mercies. And this is all the harm we mean to do, (if we can) to bring your Souls to Chriſt, and acquaintance with God: yet how are we uſed for this our labour of love? why, we are made the laughing-ſtock of the Profane, and the contempt of the Mighty; and too often 'tis, that we muſt be judged by thoſe that hate our Office and Order: is not this for a lamentation?</p>
+               <p>Sirs, will you judge our diſtreſs, and right us, if you can? be not aſhamed nor afraid to do us open right, when others are not afraid to do us open wrong. If any of us be an evil doer, let him ſuffer, ſpare him not: but if we are like to ſuffer for Chriſt's ſake, if you love Chriſt, you cannot but relieve us, and right our wrong, and ſuffer us not to be abuſed. Will you take heed and do it? But if you will not for all this, remem<g ref="char:EOLhyphen"/>ber it was a <hi>Gallio</hi> which cared for none of theſe things: but he that was a man after Gods own heart, did re<g ref="char:EOLhyphen"/>venge the wrong done to his ſervants.<note place="margin">1 Chron. 19.8.</note>
+               </p>
+               <p n="2">2. There is one grievance more you muſt help this County in, and rid the Country of, thoſe innumerable
+<pb n="31" facs="tcp:168523:20"/>Peſt-houſes, we mean the Tipling-houſes, that peſter the whole Nation, and ruine whole Families; the ve<g ref="char:EOLhyphen"/>ry bane of their neighbourhood, the ulcers of a Com<g ref="char:EOLhyphen"/>monwealth, the Devils Nurſeries. In them you have Gods ſacred Name blaſphemed, his creatures abuſed; there you have the contentions of wicked men and lewd, there confederacies and combinations are entred into; there your plots are laid for thieveries and rob<g ref="char:EOLhyphen"/>beries; thence you have your Goals filled, and ſo ma<g ref="char:EOLhyphen"/>ny Families impoveriſhed: and muſt theſe be tole<g ref="char:EOLhyphen"/>rated? Sirs, you that are the ſtanding Magiſtrates of the County, will it be for your honour (think you) to give licenſe to ſuch? ſo many? <hi>Some</hi> (you ſay) <hi>there muſt be:</hi> but why ſo many? If you tolerate no more then need, there need not one of ten of what there are: and if ſome inconveniences muſt be winked at, why not as few as may be? Well, if you mean not to ſuppreſs them, let this be granted, That their Signs may be ſet up, that men may know what is to be found within, and whither Ale-houſe-haunting doth deter<g ref="char:EOLhyphen"/>mine; let theſe Motto's be on their Sign, and over their Door: <hi>Here you may buy beggery and diſgrace at a deare rate: Here you may learn the way to the Stocks, the Goal, the Gallows, and to Hell.</hi>
+               </p>
+               <p>O that you would do the County a little right in this, while you are met together; and put ſome period to the increaſe of them at leaſt, if not to their extirpa<g ref="char:EOLhyphen"/>tion: take heed and do it, and to ſome purpoſe let it be done, or elſe you will leave ſadneſs upon the hearts of good people that fear God among us, when they ſhall ſee that God is ſtill diſhonoured, and that Magi<g ref="char:EOLhyphen"/>ſtrates have ſo little concernment for it.</p>
+               <p>And now (to conclude) my Lords the Judges, and
+<pb n="32" facs="tcp:168523:21"/>you the reſt in Commiſſion; ſeeing 'tis in your power to relieve us, let me beſeech you, for the Lords ſake, for your own ſakes, for the Countries ſake, and the ſake of all that fear the Lord among us; do ſomething to purpoſe againſt wickedneſs and its inſtruments, and ſomething for godlineſs. I am the more encouraged to ſpeak unto you, becauſe of the expectation we have, and the knowledge we have of your zeal and juſtneſs. I muſt let you know, that if you do not ſomething this way, you diſappoint many that are looking after it from you. Now as you fear the Lord, leave among us ſome <hi>veſtigia</hi> of your juſtice and goodneſs, and be ſure you lay the ground of future reformation, as well as execute juſtice, as to the emergent Cauſes before you; that ſo you may give us cauſe (when you are gone) to bleſs God for you, that you were here; and to love and honour you, as many as fear God: and give ſome cauſe to the wicked to fear you; let them ſee that you <hi>bear not the ſword in vain.</hi> Give us ſome cauſe to ſay with glad<g ref="char:EOLhyphen"/>neſs, We had (I'll take leave to uſe your names) <hi>Hales</hi> and <hi>Crook,</hi> thoſe good men and juſt among us; and that on <hi>March</hi> 22. began good Diſcipline and Reformation to take riſe in our County. O what an honour would this be to you, and what a comfort to us? Therefore in the Name of the Lord, ye Judges, <hi>Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgement. Wherefore now let the fear of the Lord be upon you, take heed and do it: for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts.</hi>
+               </p>
+               <closer>Glory to God alone.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
